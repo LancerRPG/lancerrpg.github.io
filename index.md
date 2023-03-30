@@ -1,0 +1,14 @@
+{% comment %} Legal {% endcomment -%}
+<div class="container">
+	<em>Lancer RPG Tools</em> is not an official <em>Lancer</em> product; it is a third party work, and is not affiliated with Massif Press.
+	<em>Lancer RPG Tools</em> is published via the <em>Lancer</em> Third Party License.
+</div>
+
+<hr>
+
+<div class="container">
+	<h4>Tools</h4>
+	<ul>
+		<li><a href="Encounter-Tracker/">Encounter Tracker</a></li>
+	</ul>
+</div>
