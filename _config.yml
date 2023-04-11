@@ -3,3 +3,7 @@ titles_from_headings:
     enabled: false
 plugins:
     - jekyll-sitemap
+defaults:
+    -
+        values:
+            layout: default
